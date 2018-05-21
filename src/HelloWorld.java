@@ -3,6 +3,8 @@ public class HelloWorld {
         System.out.println("hello world");
 
         // This is a comment that I added in the branch test_branch.
-        // Let's see what happens to this stuff... 
+        // Let's see what happens to this stuff...
+
+        // New stuff. 
     }
 }
